@@ -1,0 +1,7 @@
+# === Conceptual Paraphraser Dependencies ===
+# Core libraries
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+
+# Optional utilities (used by some parts of the script)
+lxml>=4.9.3
